@@ -10,7 +10,7 @@
   },
   "name": "web_aplication_node_js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "sever.js",
   "scripts": {
     "start": "tsc && node dist/server.js",
     "dev": "ts-node-dev src/server.ts",
